@@ -1,0 +1,46 @@
+.judul{
+    color: #2df720;
+}
+
+p{
+    background-color: #ffcc00;
+    font-size: 24px;
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    margin: 100px;
+    padding-top: 170px;
+}
+
+h1{
+    color: red;
+    background-color: blanchedalmond;
+    display: inline-block;
+    padding: 10px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(187, 25, 25);
+    height: 50px;
+    width: 50px;
+    font-size: 24px;
+    padding: 50px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.box{
+    background-color: yellowgreen;
+    margin: 10px;
+}
