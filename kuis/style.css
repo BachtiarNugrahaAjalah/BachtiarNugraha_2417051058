@@ -1,0 +1,69 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.teks{
+    font-size: x-large;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.headertb{
+    background-color: aquamarine;
+}
+
+.day{
+    background-color: bisque;
+}
+
+.res{
+    background-color: orange;
+}
+
+.teo{
+    background-color: greenyellow;
+}
+
+.kosong{
+    background-color: red;
+    color: aliceblue;
+}
+
+.subcontent{
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding-top: 10px;
+}
+
+.rectanglet{
+    width: 20px;
+    height: 20px;
+    background-color: greenyellow;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.rectangler{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.ket{
+    margin-left: 10px;
+}
