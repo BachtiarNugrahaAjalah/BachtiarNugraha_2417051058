@@ -46,7 +46,6 @@
 .subcontent{
     display: flex;
     flex-direction: row;
-    align-self: flex-start;
     padding-top: 10px;
 }
 
